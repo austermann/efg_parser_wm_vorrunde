@@ -1,0 +1,56 @@
+Gruppe	Datum	Uhrzeit	Heim	Gast	Stadion	Stadt	Land
+A	11.06.2026	21:00	Mexiko	Schweden	Estadio Azteca	Mexiko-Stadt	Mexiko
+A	12.06.2026	02:00	Italien	Australien	AT&T Stadium	Dallas	USA
+A	16.06.2026	21:00	Mexiko	Italien	Estadio Azteca	Mexiko-Stadt	Mexiko
+A	17.06.2026	00:00	Schweden	Australien	MetLife Stadium	New York	USA
+A	21.06.2026	20:00	Schweden	Mexiko	NRG Stadium	Houston	USA
+A	21.06.2026	20:00	Australien	Italien	Gillette Stadium	Boston	USA
+
+B	12.06.2026	00:00	Brasilien	Serbien	SoFi Stadium	Los Angeles	USA
+B	12.06.2026	21:00	Venezuela	Ecuador	MetLife Stadium	New York	USA
+B	17.06.2026	21:00	Brasilien	Venezuela	NRG Stadium	Houston	USA
+B	18.06.2026	00:00	Serbien	Ecuador	AT&T Stadium	Dallas	USA
+B	22.06.2026	02:00	Serbien	Venezuela	Mercedes-Benz Stadium	Atlanta	USA
+B	22.06.2026	02:00	Ecuador	Brasilien	Levi's Stadium	San Francisco	USA
+
+C	11.06.2026	17:00	England	USA	AT&T Stadium	Dallas	USA
+C	12.06.2026	00:00	Argentinien	Saudi-Arabien	MetLife Stadium	New York	USA
+C	16.06.2026	17:00	England	Argentinien	Estadio Azteca	Mexiko-Stadt	Mexiko
+C	16.06.2026	21:00	Saudi-Arabien	USA	NRG Stadium	Houston	USA
+C	21.06.2026	23:00	Saudi-Arabien	England	King Fahd International Stadium	Riad	Saudi-Arabien
+C	22.06.2026	20:00	USA	Argentinien	MetLife Stadium	New York	USA
+
+D	11.06.2026	21:00	Frankreich	Dänemark	King Fahd International Stadium	Riad	Saudi-Arabien
+D	12.06.2026	17:00	Deutschland	Japan	Mercedes-Benz Stadium	Atlanta	USA
+D	16.06.2026	21:00	Frankreich	Deutschland	AT&T Stadium	Dallas	USA
+D	17.06.2026	21:00	Japan	Dänemark	NRG Stadium	Houston	USA
+D	22.06.2026	20:00	Japan	Frankreich	MetLife Stadium	New York	USA
+D	22.06.2026	20:00	Dänemark	Deutschland	Lambeau Field	Green Bay	USA
+
+E	13.06.2026	00:00	Spanien	Costa Rica	NRG Stadium	Houston	USA
+E	13.06.2026	21:00	Belgien	Slowenien	Mercedes-Benz Stadium	Atlanta	USA
+E	18.06.2026	02:00	Spanien	Belgien	AT&T Stadium	Dallas	USA
+E	18.06.2026	21:00	Slowenien	Costa Rica	MetLife Stadium	New York	USA
+E	23.06.2026	20:00	Slowenien	Spanien	Heinz Field	Pittsburgh	USA
+E	23.06.2026	20:00	Costa Rica	Belgien	AT&T Stadium	Dallas	USA
+
+F	13.06.2026	21:00	Portugal	Ghana	NRG Stadium	Houston	USA
+F	14.06.2026	00:00	Uruguay	Südkorea	MetLife Stadium	New York	USA
+F	18.06.2026	21:00	Portugal	Uruguay	AT&T Stadium	Dallas	USA
+F	19.06.2026	02:00	Südkorea	Ghana	Levi's Stadium	San Francisco	USA
+F	24.06.2026	02:00	Südkorea	Portugal	AT&T Stadium	Dallas	USA
+F	24.06.2026	02:00	Ghana	Uruguay	Gillette Stadium	Boston	USA
+
+G	14.06.2026	02:00	Niederlande	Polen	MetLife Stadium	New York	USA
+G	14.06.2026	21:00	USA	Haiti	AT&T Stadium	Dallas	USA
+G	19.06.2026	21:00	Niederlande	USA	NRG Stadium	Houston	USA
+G	20.06.2026	02:00	Polen	Haiti	Heinz Field	Pittsburgh	USA
+G	24.06.2026	20:00	Polen	Niederlande	MetLife Stadium	New York	USA
+G	24.06.2026	20:00	Haiti	USA	AT&T Stadium	Dallas	USA
+
+H	14.06.2026	17:00	Kolumbien	Japan	NRG Stadium	Houston	USA
+H	15.06.2026	00:00	Marokko	Iran	MetLife Stadium	New York	USA
+H	19.06.2026	17:00	Kolumbien	Marokko	AT&T Stadium	Dallas	USA
+H	20.06.2026	21:00	Iran	Japan	Levi's Stadium	San Francisco	USA
+H	25.06.2026	02:00	Iran	Kolumbien	NRG Stadium	Houston	USA
+H	25.06.2026	02:00	Japan	Marokko	Gillette Stadium	Boston	USA
